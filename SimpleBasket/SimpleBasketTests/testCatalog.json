@@ -1,0 +1,22 @@
+{
+    "currency": "CHF",
+    "products": [
+                 {
+                 "description": "Fake product 1",
+                 "price": 100.2222
+                 },
+                 {
+                 "description": "This is a fake product 2",
+                 "price": 1112.133
+                 },
+                 {
+                 "description": "Milk (bottle)",
+                 "price": 1222.3
+                 },
+                 {
+                 "description": "Bean (can)",
+                 "price": 13.73
+                 }
+                 ]
+}
+
